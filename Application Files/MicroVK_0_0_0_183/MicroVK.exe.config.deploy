@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="MicroVK.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1"/></startup>
+    <userSettings>
+        <MicroVK.MySettings>
+            <setting name="AccessToken" serializeAs="String">
+                <value/>
+            </setting>
+            <setting name="Notification3" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Notification4" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Notification8" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Notification9" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Notification61" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Notification62" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="AccentColor" serializeAs="String">
+                <value>#FF597DA3</value>
+            </setting>
+            <setting name="Theme" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="MessageSendType1" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="MessageSendType2" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Font" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="Volume" serializeAs="String">
+                <value>8192</value>
+            </setting>
+            <setting name="Invisible" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Background" serializeAs="String">
+                <value/>
+            </setting>
+            <setting name="BackgroundOpacity" serializeAs="String">
+                <value>0.3</value>
+            </setting>
+            <setting name="IsBackground" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="IsSetActivity" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="CheckLink" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="MarkMessageInvisible" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="NotificationH" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NotificationV" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="IsSpeak" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="SpeakRate" serializeAs="String">
+                <value>5</value>
+            </setting>
+            <setting name="SpellCheck" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="Notification40" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="NColor3" serializeAs="String">
+                <value>#FF2A3345</value>
+            </setting>
+            <setting name="NColor4" serializeAs="String">
+                <value>#FF2A3345</value>
+            </setting>
+            <setting name="NColor8" serializeAs="String">
+                <value>#FF008A00</value>
+            </setting>
+            <setting name="NColor9" serializeAs="String">
+                <value>#FF647687</value>
+            </setting>
+            <setting name="NColor61" serializeAs="String">
+                <value>#FF2A3345</value>
+            </setting>
+            <setting name="NColor62" serializeAs="String">
+                <value>#FF2A3345</value>
+            </setting>
+            <setting name="NColor40" serializeAs="String">
+                <value>#FF2A3345</value>
+            </setting>
+            <setting name="NT3" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NT4" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NT40" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NT8" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NT9" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NT61" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="NT62" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="Version" serializeAs="String">
+                <value/>
+            </setting>
+            <setting name="Culture" serializeAs="String">
+                <value/>
+            </setting>
+            <setting name="MD5" serializeAs="String">
+                <value/>
+            </setting>
+            <setting name="InTaskbar" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="IsClosed" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="HidePlayer" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </MicroVK.MySettings>
+    </userSettings>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="System.Runtime" publicKeyToken="b03f5f7f11d50a3a" culture="neutral"/>
+        <bindingRedirect oldVersion="0.0.0.0-2.6.8.0" newVersion="2.6.8.0"/>
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="System.Threading.Tasks" publicKeyToken="b03f5f7f11d50a3a" culture="neutral"/>
+        <bindingRedirect oldVersion="0.0.0.0-2.6.8.0" newVersion="2.6.8.0"/>
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="Newtonsoft.Json" publicKeyToken="30ad4fe6b2a6aeed" culture="neutral"/>
+        <bindingRedirect oldVersion="0.0.0.0-7.0.0.0" newVersion="7.0.0.0"/>
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
