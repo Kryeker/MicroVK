@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
-<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <VisualElements BackgroundColor="#4A76A8"
-                  ShowNameOnSquare150x150Logo="off"
-                  ForegroundText="light"
-                  Square150x150Logo="images\MicroVKLogo150.png"
-                  Square70x70Logo="images\MicroVKLogo70.png" />
-</Application>
