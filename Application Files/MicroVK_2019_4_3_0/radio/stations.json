@@ -1,0 +1,1292 @@
+﻿[
+  {
+    "rating": 32479,
+    "name": "XIТ FM",
+    "teg": "ua",
+    "url": "http://online-hitfm.tavrmedia.ua:8000/HitFM"
+  },
+  {
+    "rating": 30674,
+    "name": "Cool radio",
+    "teg": "ua",
+    "url": "http://vtsu.org.ua:8000/cool"
+  },
+  {
+    "rating": 30551,
+    "name": "Kiss FM",
+    "teg": "ua",
+    "url": "http://online-kissfm.tavrmedia.ua/KissFM"
+  },
+  {
+    "rating": 21349,
+    "name": "Kazantip FM",
+    "teg": "ua",
+    "url": "http://radio.kazantip-fm.ru:8000/mp3"
+  },
+  {
+    "rating": 20823,
+    "name": "Nullwave Русский реп",
+    "teg": "ru",
+    "url": "http://nsk-ru.l.nullwave.fm:8000/russian_rap"
+  },
+  {
+    "rating": 14556,
+    "name": "Наше Радио",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8112/nashe128.mp3"
+  },
+  {
+    "rating": 13422,
+    "name": "Юмор ФМ",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8114/jumorfm192.mp3"
+  },
+  {
+    "rating": 11901,
+    "name": "Рекорд",
+    "teg": "ru",
+    "url": "http://online.radiorecord.ru:8101/rr_128"
+  },
+  {
+    "rating": 11193,
+    "name": "RADIO MIXfm",
+    "teg": "ru",
+    "url": "http://myradiohost.ru:8000/live"
+  },
+  {
+    "rating": 9915,
+    "name": "Шансон Россия",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8108/shanson128.mp3"
+  },
+  {
+    "rating": 9894,
+    "name": "Русские песни",
+    "teg": "ru",
+    "url": "http://listen.rusongs.ru:8005/ru-mp3-128"
+  },
+  {
+    "rating": 8763,
+    "name": "Наше радио",
+    "teg": "ua",
+    "url": "http://cast.radiogroup.com.ua:8000/nashe"
+  },
+  {
+    "rating": 43755,
+    "name": "Русский рэп",
+    "teg": "ru",
+    "url": "http://194.63.140.214:8000/booyaa_128_mp3_rus_rap"
+  },
+  {
+    "rating": 42064,
+    "name": "Шторм",
+    "teg": "ru",
+    "url": "http://radio-shtorm.ru:8000/112"
+  },
+  {
+    "rating": 8046,
+    "name": "DJ FM",
+    "teg": "ua",
+    "url": "http://217.20.164.163:8010/;"
+  },
+  {
+    "rating": 7911,
+    "name": "NRJ Москва",
+    "teg": "ru",
+    "url": "http://eu1.101.ru:8000/v1_1"
+  },
+  {
+    "rating": 6789,
+    "name": "Radio ROKS",
+    "teg": "ua",
+    "url": "http://online-radioroks.tavrmedia.ua/RadioROKS"
+  },
+  {
+    "rating": 6763,
+    "name": "Mix fm",
+    "teg": "ua",
+    "url": "http://mixfm.com.ua:8192/;"
+  },
+  {
+    "rating": 6155,
+    "name": "Русское Радио",
+    "teg": "ua",
+    "url": "http://91.201.37.43:8000/rusradio-128"
+  },
+  {
+    "rating": 6058,
+    "name": "BIG Radio",
+    "teg": "ua",
+    "url": "http://bigradio.com.ua:6840/radio"
+  },
+  {
+    "rating": 5937,
+    "name": "Шансон Украина",
+    "teg": "ua",
+    "url": "http://217.20.164.163:8002/;"
+  },
+  {
+    "rating": 5449,
+    "name": "ЮFM",
+    "teg": "ru",
+    "url": "http://81.19.85.195:80/unost128.mp3"
+  },
+  {
+    "rating": 5433,
+    "name": "DFM",
+    "teg": "ru",
+    "url": "http://92.50.177.134:8010/dfm.mp3"
+  },
+  {
+    "rating": 5103,
+    "name": "Авторадио Россия",
+    "teg": "ru",
+    "url": "http://msk3.101.ru:8000/c3_2?setst=-1"
+  },
+  {
+    "rating": 4999,
+    "name": "Русский Хит",
+    "teg": "ru",
+    "url": "http://ruhit.imgradio.pro/RusHit"
+  },
+  {
+    "rating": 4879,
+    "name": "Зайцев ФМ",
+    "teg": "ru",
+    "url": "http://radio.zaycev.fm:9001/ZaycevFM(128)"
+  },
+  {
+    "rating": 4636,
+    "name": "Радио mfm",
+    "teg": "ua",
+    "url": "http://radio.urg.com.ua/online128"
+  },
+  {
+    "rating": 4335,
+    "name": "World Rap",
+    "teg": "other",
+    "url": "http://booyaa.ru/radio/?stream=booyaa_128_mp3_world_rap"
+  },
+  {
+    "rating": 4219,
+    "name": "Шарманка",
+    "teg": "ua",
+    "url": "http://217.20.164.163:8006/;"
+  },
+  {
+    "rating": 3953,
+    "name": "GTI radio",
+    "teg": "ru",
+    "url": "http://radio.globaltranceinvasion.com:8000/radiolow"
+  },
+  {
+    "rating": 3951,
+    "name": "Best FM Харьков",
+    "teg": "ua",
+    "url": "http://radio.bestfm.fm:8080/bestfm"
+  },
+  {
+    "rating": 3700,
+    "name": "Радио Пассаж",
+    "teg": "ru",
+    "url": "http://listen.radiopassazh.ru:8005/mp3-128"
+  },
+  {
+    "rating": 3457,
+    "name": "Диско 80-х",
+    "teg": "ru",
+    "url": "http://eu4.101.ru:8000/c7_0"
+  },
+  {
+    "rating": 3359,
+    "name": "Радио Позитив",
+    "teg": "ru",
+    "url": "http://s3.radioheart.ru:8004/live"
+  },
+  {
+    "rating": 3239,
+    "name": "Dance fm ",
+    "teg": "other",
+    "url": "http://81.173.24.2/;stream.nsv"
+  },
+  {
+    "rating": 2985,
+    "name": "Радио КОКС",
+    "teg": "ru",
+    "url": "http://hitru.ru:8000/ch2-128"
+  },
+  {
+    "rating": 2756,
+    "name": "Saint-P",
+    "teg": "ru",
+    "url": "http://saintp-radio.ru:1288/radio"
+  },
+  {
+    "rating": 2746,
+    "name": "Авторадио Украина",
+    "teg": "ua",
+    "url": "http://cast.radiogroup.com.ua:8000/avtoradio"
+  },
+  {
+    "rating": 2547,
+    "name": "@Plus Radio",
+    "teg": "by",
+    "url": "http://shoutcast.aplus.by:8000/;stream.nsv"
+  },
+  {
+    "rating": 2409,
+    "name": "TranceFan",
+    "teg": "ru",
+    "url": "http://stream1.radiostyle.ru:8001/trancefan"
+  },
+  {
+    "rating": 2381,
+    "name": "Ultra",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8112/radioultra128.mp3"
+  },
+  {
+    "rating": 2309,
+    "name": "FreshBeat Radio",
+    "teg": "ru",
+    "url": "http://music.freshbeat.ru/mp3128"
+  },
+  {
+    "rating": 2225,
+    "name": "Life-Radio",
+    "teg": "ru",
+    "url": "http://listen.life-radio.ru:8019/liferadioru"
+  },
+  {
+    "rating": 2162,
+    "name": "Радио Русский Шторм",
+    "teg": "ru",
+    "url": "http://radio.rushtorm.ru:8000/mp3"
+  },
+  {
+    "rating": 2119,
+    "name": "Puls Radio Ukraine",
+    "teg": "ua",
+    "url": "http://listen.teploe.net:8100/pulsradio?type=.flv"
+  },
+  {
+    "rating": 2116,
+    "name": "Chillout",
+    "teg": "other",
+    "url": "http://scfire-ntc-aa03.stream.aol.com:80/stream/1035"
+  },
+  {
+    "rating": 2058,
+    "name": "Radio Amici",
+    "teg": "ru",
+    "url": "http://50.7.129.122:8293/amici"
+  },
+  {
+    "rating": 2000,
+    "name": "Glee Radio",
+    "teg": "other",
+    "url": "http://173.192.43.21:80/ace-glee"
+  },
+  {
+    "rating": 1982,
+    "name": "Monte Carlo (Санкт-Петербург)",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8114/montecarlospb128.mp3"
+  },
+  {
+    "rating": 1973,
+    "name": "DJ Station",
+    "teg": "ru",
+    "url": "http://91.144.128.125/stream192"
+  },
+  {
+    "rating": 1886,
+    "name": "Українське весілля",
+    "teg": "ua",
+    "url": "http://music.myradio.com.ua:8000/ukrainian_wedding128.mp3"
+  },
+  {
+    "rating": 1785,
+    "name": "Хорошее.fm",
+    "teg": "ru",
+    "url": "http://radio.horoshee.fm:8000/mp3"
+  },
+  {
+    "rating": 1752,
+    "name": "Megapolis (Молдова)",
+    "teg": "other",
+    "url": "http://78.24.50.58:8000/;"
+  },
+  {
+    "rating": 1701,
+    "name": "Перец",
+    "teg": "ua",
+    "url": "http://radio.stilnoe.fm:8080/radio-stilnoe"
+  },
+  {
+    "rating": 1643,
+    "name": "Gala",
+    "teg": "ua",
+    "url": "http://live.galaradio.com:8000/kiev"
+  },
+  {
+    "rating": 1636,
+    "name": "Jungletrain drum and bass",
+    "teg": "other",
+    "url": "http://stream2.jungletrain.net:8000/;"
+  },
+  {
+    "rating": 1604,
+    "name": "Patry jam",
+    "teg": "other",
+    "url": "http://booyaa.ru/radio/?stream=booyaa_128_mp3_party_jam"
+  },
+  {
+    "rating": 1591,
+    "name": "Милицейская волна",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8114/radiomv192.mp3"
+  },
+  {
+    "rating": 1576,
+    "name": "m2o",
+    "teg": "other",
+    "url": "http://mp3.kataweb.it:8000/M2O"
+  },
+  {
+    "rating": 1534,
+    "name": "Новое Радио (Минск)",
+    "teg": "by",
+    "url": "http://streaming.telecom.by:8001/novoeradio-128kb"
+  },
+  {
+    "rating": 1523,
+    "name": "Русское Радио (Минск)",
+    "teg": "by",
+    "url": "http://live.rusradio.by:8000/live"
+  },
+  {
+    "rating": 1481,
+    "name": "Маяк",
+    "teg": "ru",
+    "url": "http://w04-cn03.akadostream.ru:8000/mayak128.mp3"
+  },
+  {
+    "rating": 1366,
+    "name": "Рок Прорыв",
+    "teg": "ru",
+    "url": "http://stream4.radiostyle.ru:8004/free"
+  },
+  {
+    "rating": 1359,
+    "name": "Радио P.S.Lan",
+    "teg": "ua",
+    "url": "http://pslan.com:8000/;"
+  },
+  {
+    "rating": 1293,
+    "name": "Radiomix Днепропетровск",
+    "teg": "ua",
+    "url": "http://media.fregat.com:8000/RadioMIX"
+  },
+  {
+    "rating": 1266,
+    "name": "Романтика",
+    "teg": "ru",
+    "url": "http://eu1.101.ru:8000/v4_1"
+  },
+  {
+    "rating": 1200,
+    "name": "Радио Минск",
+    "teg": "by",
+    "url": "http://93.84.113.142:8000/radio"
+  },
+  {
+    "rating": 1187,
+    "name": "Premium",
+    "teg": "ru",
+    "url": "http://89.175.27.162:9000/premium64"
+  },
+  {
+    "rating": 1178,
+    "name": "Макс FM Сочи",
+    "teg": "ru",
+    "url": "http://radio.maks-fm.ru:8000/maksfm128"
+  },
+  {
+    "rating": 1177,
+    "name": "ПИОНЕР FM",
+    "teg": "ru",
+    "url": "http://pioner.hostingradio.ru:8008/ppr128"
+  },
+  {
+    "rating": 1157,
+    "name": "PSY radio",
+    "teg": "ru",
+    "url": "http://frod.io:8000/psyradio"
+  },
+  {
+    "rating": 1150,
+    "name": "ES radio (Санкт-Петербург)",
+    "teg": "ru",
+    "url": "http://settings.es-radio.ru:8323/live"
+  },
+  {
+    "rating": 1055,
+    "name": "Просто Радио",
+    "teg": "ua",
+    "url": "http://62.80.190.246:8000/ProstoRadiO128"
+  },
+  {
+    "rating": 979,
+    "name": "RadioCobalt",
+    "teg": "other",
+    "url": "http://listen.radionomy.com/radiocobalt"
+  },
+  {
+    "rating": 951,
+    "name": "High Voltage",
+    "teg": "other",
+    "url": "http://tai-02.egihosting.com/highvolt-128k-mp3"
+  },
+  {
+    "rating": 950,
+    "name": "Львiвська хвиля",
+    "teg": "ua",
+    "url": "http://ua.uar.net:8000/lwr"
+  },
+  {
+    "rating": 921,
+    "name": "Муз-Ком",
+    "teg": "ru",
+    "url": "http://radio.parmatel.ru:8000/sps-parma"
+  },
+  {
+    "rating": 894,
+    "name": "Best FM",
+    "teg": "ru",
+    "url": "http://195.222.70.222:8001/bestfm"
+  },
+  {
+    "rating": 889,
+    "name": "Чистое радио",
+    "teg": "ru",
+    "url": "http://live.ncradio.ru/256.mp3"
+  },
+  {
+    "rating": 878,
+    "name": "Redress",
+    "teg": "ru",
+    "url": "http://s2.radioheart.ru:8009/Redress"
+  },
+  {
+    "rating": 864,
+    "name": "Альфа",
+    "teg": "by",
+    "url": "http://91.149.158.50:8020/alpharadio"
+  },
+  {
+    "rating": 857,
+    "name": "Радио Юнитон (Новосибирск)",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8108/uniton128.mp3"
+  },
+  {
+    "rating": 839,
+    "name": "Unistar",
+    "teg": "by",
+    "url": "http://213.184.232.36:8000/;stream.nsv"
+  },
+  {
+    "rating": 835,
+    "name": "LaFemme",
+    "teg": "ru",
+    "url": "http://live.rzs.ru:8000/lf.128.mp3"
+  },
+  {
+    "rating": 811,
+    "name": "Max-FM",
+    "teg": "ru",
+    "url": "http://max-fm.net:8000/;"
+  },
+  {
+    "rating": 805,
+    "name": "Серебряный дождь",
+    "teg": "ru",
+    "url": "http://radiosilver.corbina.net:8000/silver128.mp3"
+  },
+  {
+    "rating": 797,
+    "name": "Channel N5",
+    "teg": "ru",
+    "url": "http://radio.promodeejay.net:8000/channel5"
+  },
+  {
+    "rating": 782,
+    "name": "Sanfm",
+    "teg": "ru",
+    "url": "http://sanfm.ru:8000/trance"
+  },
+  {
+    "rating": 752,
+    "name": "Джем",
+    "teg": "ua",
+    "url": "http://cast.radiogroup.com.ua:8000/jamfm"
+  },
+  {
+    "rating": 749,
+    "name": "Эхо Москвы",
+    "teg": "ru",
+    "url": "http://radio.memonet.ru:8000/echo.mp3"
+  },
+  {
+    "rating": 739,
+    "name": "Пилот FM",
+    "teg": "ru",
+    "url": "http://online.pilotfm.ru:8000/pilot"
+  },
+  {
+    "rating": 698,
+    "name": "FlyFm",
+    "teg": "ua",
+    "url": "http://flyfm.net:8000/flyfm"
+  },
+  {
+    "rating": 695,
+    "name": "Electra Dubstep Radio",
+    "teg": "ru",
+    "url": "http://31.131.251.6:8017/electra"
+  },
+  {
+    "rating": 689,
+    "name": "Народное Радио",
+    "teg": "ua",
+    "url": "http://62.80.190.247:8001/NaRadiO128"
+  },
+  {
+    "rating": 688,
+    "name": "Alternative Rock ",
+    "teg": "ua",
+    "url": "http://music.myradio.com.ua:8000/Alternative_Rock128.mp3"
+  },
+  {
+    "rating": 687,
+    "name": "SunShine FM",
+    "teg": "other",
+    "url": "http://s1.viastreaming.net:7310/;"
+  },
+  {
+    "rating": 680,
+    "name": "SD.fm",
+    "teg": "ru",
+    "url": "http://93.185.177.125:8000/live"
+  },
+  {
+    "rating": 679,
+    "name": "Радио Алла",
+    "teg": "ua",
+    "url": "http://radio02-cn03.akadostream.ru:8114/radioalla192.mp3"
+  },
+  {
+    "rating": 650,
+    "name": "Душа Кавказа",
+    "teg": "ru",
+    "url": "http://37.220.0.26:8000/live"
+  },
+  {
+    "rating": 648,
+    "name": "Радио Fusion",
+    "teg": "other",
+    "url": "http://199.195.194.92:8031/;"
+  },
+  {
+    "rating": 627,
+    "name": "Alex-m",
+    "teg": "ru",
+    "url": "http://s02.radio-tochka.com:5740/radio"
+  },
+  {
+    "rating": 616,
+    "name": "Rush-FM",
+    "teg": "ru",
+    "url": "http://83.142.167.50:8000/;"
+  },
+  {
+    "rating": 590,
+    "name": "Радио ОК (Рязань)",
+    "teg": "ru",
+    "url": "http://78.31.72.218:8000/OKradio128.mp3"
+  },
+  {
+    "rating": 587,
+    "name": "Киев",
+    "teg": "ua",
+    "url": "http://217.76.201.26:8000/;stream.nsv"
+  },
+  {
+    "rating": 583,
+    "name": "СIД FM",
+    "teg": "ua",
+    "url": "http://simya.lutsk.ua:8000/;"
+  },
+  {
+    "rating": 582,
+    "name": "Болид Фм",
+    "teg": "ru",
+    "url": "http://178.161.130.30:8128/;stream.nsv"
+  },
+  {
+    "rating": 580,
+    "name": "Manhattan 102.5 (Уфа)",
+    "teg": "ru",
+    "url": "http://81.30.54.70:8000/manhattan"
+  },
+  {
+    "rating": 579,
+    "name": "Fear.FM Harder",
+    "teg": "other",
+    "url": "http://streaming207.radionomy.com/FearFM-Harder"
+  },
+  {
+    "rating": 572,
+    "name": "Радио точка",
+    "teg": "ua",
+    "url": "http://89.111.189.3:7465/;stream.nsv"
+  },
+  {
+    "rating": 570,
+    "name": "Радио Зенит",
+    "teg": "ru",
+    "url": "http://stream.radiozenit.ru:8000/mp3"
+  },
+  {
+    "rating": 570,
+    "name": "Krasnoyarsk Music City",
+    "teg": "ru",
+    "url": "http://radiokmc.optizone.ru:8000/live"
+  },
+  {
+    "rating": 557,
+    "name": "Мелодiя",
+    "teg": "ua",
+    "url": "http://radio.melodiya.ua:8080/radio-melodia"
+  },
+  {
+    "rating": 531,
+    "name": "GOA-PSY TRANCE",
+    "teg": "other",
+    "url": "http://pub6.di.fm/di_goapsy"
+  },
+  {
+    "rating": 529,
+    "name": "Радио НЕСТАНДАРТ",
+    "teg": "ru",
+    "url": "http://stream0.radiostyle.ru:8000/nestandart"
+  },
+  {
+    "rating": 525,
+    "name": "Говорит Москва",
+    "teg": "ru",
+    "url": "http://radio02-cn03.akadostream.ru:8108/govoritmoskva128.mp3"
+  },
+  {
+    "rating": 521,
+    "name": "DocFM — Dance",
+    "teg": "ru",
+    "url": "http://docfm.ru:7000/dance"
+  },
+  {
+    "rating": 512,
+    "name": "Радио Премьер",
+    "teg": "ua",
+    "url": "http://server.rpr.dp.ua:8000/live"
+  },
+  {
+    "rating": 508,
+    "name": "Радио Сибирь",
+    "teg": "ru",
+    "url": "http://213.183.101.101:8090/modem"
+  },
+  {
+    "rating": 502,
+    "name": "Ice fm",
+    "teg": "ru",
+    "url": "http://live.icefm.ru:9000/live"
+  },
+  {
+    "rating": 495,
+    "name": "Город FM (Екатеринбург)",
+    "teg": "ru",
+    "url": "http://87.224.132.89:8000/gorodfm"
+  },
+  {
+    "rating": 492,
+    "name": "Радио-53",
+    "teg": "ru",
+    "url": "http://84.242.241.66:8000/;stream.nsv"
+  },
+  {
+    "rating": 483,
+    "name": "WarmRadio",
+    "teg": "ua",
+    "url": "http://warmradio.net:8888/WarmRadio(128)"
+  },
+  {
+    "rating": 481,
+    "name": "Моя Удмуртия",
+    "teg": "ru",
+    "url": "http://radio.myudm.ru:10010/mp3"
+  },
+  {
+    "rating": 476,
+    "name": "Coma.Fm",
+    "teg": "ua",
+    "url": "http://s1.radioheart.ru:8044/live"
+  },
+  {
+    "rating": 468,
+    "name": "Music Радио",
+    "teg": "ua",
+    "url": "http://91.202.73.76:8080/listen128"
+  },
+  {
+    "rating": 454,
+    "name": "Такт ФМ",
+    "teg": "ua",
+    "url": "http://77.120.123.166:8000/RadioTakt.mp3"
+  },
+  {
+    "rating": 442,
+    "name": "Радио континенталь",
+    "teg": "ru",
+    "url": "http://stream01.radiocon.ru:8000/live"
+  },
+  {
+    "rating": 406,
+    "name": "ЛетоFM",
+    "teg": "ru",
+    "url": "http://host.fm:7777/16397_still"
+  },
+  {
+    "rating": 399,
+    "name": "Орфей",
+    "teg": "ru",
+    "url": "http://w03-cn03.akadostream.ru:8000/orfey128.mp3"
+  },
+  {
+    "rating": 394,
+    "name": "Radio Top",
+    "teg": "ru",
+    "url": "http://radiotoprussia.ru:8000/top128"
+  },
+  {
+    "rating": 383,
+    "name": "Nostalgie",
+    "teg": "ua",
+    "url": "http://77.47.134.32:80/035"
+  },
+  {
+    "rating": 377,
+    "name": "Радiо-Ера FM",
+    "teg": "ua",
+    "url": "http://212.26.129.2:8000/era96"
+  },
+  {
+    "rating": 374,
+    "name": "Rafts FM",
+    "teg": "ua",
+    "url": "http://myradio24.com:9000/8212"
+  },
+  {
+    "rating": 369,
+    "name": "Західний полюс",
+    "teg": "ua",
+    "url": "http://online.1043.com.ua:8000/1043fm"
+  },
+  {
+    "rating": 362,
+    "name": "Детское Радио",
+    "teg": "ru",
+    "url": "http://radio01-cn03.akadostream.ru:8114/detifm192.mp3"
+  },
+  {
+    "rating": 354,
+    "name": "Подилля-Центр",
+    "teg": "ua",
+    "url": "http://fm.odtrk.km.ua:8000/;stream.nsv"
+  },
+  {
+    "rating": 346,
+    "name": "Grind Fm",
+    "teg": "ua",
+    "url": "http://radio.goha.ru:8000/grind.fm"
+  },
+  {
+    "rating": 344,
+    "name": "FREE FM",
+    "teg": "ru",
+    "url": "http://188.120.243.36:8026/live"
+  },
+  {
+    "rating": 340,
+    "name": "True Beat",
+    "teg": "other",
+    "url": "http://91.121.25.89:8010/;stream.nsv"
+  },
+  {
+    "rating": 333,
+    "name": "Медвежье радио",
+    "teg": "ru",
+    "url": "http://live.qbear.ru:8088/bear128mp3"
+  },
+  {
+    "rating": 315,
+    "name": "UAFM",
+    "teg": "ua",
+    "url": "http://live.uafm.org:9001/uafm"
+  },
+  {
+    "rating": 312,
+    "name": "Мираж",
+    "teg": "ru",
+    "url": "http://stream11.radiostyle.ru:8011/mirazhfm"
+  },
+  {
+    "rating": 306,
+    "name": "Rapture FM",
+    "teg": "ru",
+    "url": "http://s1.rapturefm.ru:8000/rfm"
+  },
+  {
+    "rating": 288,
+    "name": "RadioEx internet radio station ",
+    "teg": "ua",
+    "url": "http://stream0.radiostyle.ru:8000/radioex"
+  },
+  {
+    "rating": 273,
+    "name": "Русский Шторм",
+    "teg": "ru",
+    "url": "http://radio.rushtorm.ru:8000/mp3"
+  },
+  {
+    "rating": 253,
+    "name": "Trance Century Radio",
+    "teg": "ua",
+    "url": "http://31.184.236.6:8000/tcr128"
+  },
+  {
+    "rating": 250,
+    "name": "161FM",
+    "teg": "ru",
+    "url": "http://stream.161.fm:8000/128"
+  },
+  {
+    "rating": 248,
+    "name": "ZooM RADIO",
+    "teg": "ru",
+    "url": "http://listen3.myradio24.com:9000/8240"
+  },
+  {
+    "rating": 244,
+    "name": "UAFM",
+    "teg": "ua",
+    "url": "http://live.uafm.org:9001/uafm"
+  },
+  {
+    "rating": 236,
+    "name": "Витебск",
+    "teg": "by",
+    "url": "http://www.in-radio.ru/radio/vitebsk/"
+  },
+  {
+    "rating": 225,
+    "name": "Вечер Fm",
+    "teg": "ru",
+    "url": "http://live.vecherfm.ru:8000/radio"
+  },
+  {
+    "rating": 223,
+    "name": "Юникид",
+    "teg": "ru",
+    "url": "http://stream1.radiostyle.ru:8001/unikid"
+  },
+  {
+    "rating": 222,
+    "name": "Radio Metal",
+    "teg": "ua",
+    "url": "http://s3.radioheart.ru:8015/radio-metal"
+  },
+  {
+    "rating": 216,
+    "name": "Radio IMPULS",
+    "teg": "ru",
+    "url": "http://s02.radio-tochka.com:7700/radio"
+  },
+  {
+    "rating": 215,
+    "name": "Отличное Радио",
+    "teg": "ru",
+    "url": "http://listen1.myradio24.com:9000/8234"
+  },
+  {
+    "rating": 212,
+    "name": "Радио Народная Волна",
+    "teg": "ru",
+    "url": "http://intervolna.com:8000/rnv"
+  },
+  {
+    "rating": 211,
+    "name": "Музыка для Медитации",
+    "teg": "ru",
+    "url": "http://s07.radio-tochka.com:6510/;"
+  },
+  {
+    "rating": 209,
+    "name": "STR FM",
+    "teg": "ua",
+    "url": "http://giss.tv:8000/strfm.mp3"
+  },
+  {
+    "rating": 205,
+    "name": "TrancEuphoria",
+    "teg": "ru",
+    "url": "http://s6.radioheart.ru:8000/listen"
+  },
+  {
+    "rating": 202,
+    "name": "Радио Под Крышей",
+    "teg": "other",
+    "url": "http://176.31.239.83:9136/stream"
+  },
+  {
+    "rating": 198,
+    "name": "FankFM",
+    "teg": "ru",
+    "url": "http://live.fankfm.ru:8000/FankFm"
+  },
+  {
+    "rating": 191,
+    "name": "Fresh Rock",
+    "teg": "ua",
+    "url": "http://ua.freshrock.net:8000/mp3"
+  },
+  {
+    "rating": 190,
+    "name": "Soulplay Radiostation",
+    "teg": "ru",
+    "url": "http://31.193.195.50:8022/stream"
+  },
+  {
+    "rating": 185,
+    "name": "Еко радио",
+    "teg": "ua",
+    "url": "http://93.178.252.84:8000/;"
+  },
+  {
+    "rating": 184,
+    "name": "радио шансон",
+    "teg": "ru",
+    "url": "http://80.237.157.96:8100/;"
+  },
+  {
+    "rating": 174,
+    "name": "Interesting-FM",
+    "teg": "ru",
+    "url": "http://listen.interesting-fm.ru:8118/live"
+  },
+  {
+    "rating": 172,
+    "name": "Спокойное Радио",
+    "teg": "ru",
+    "url": "http://listen1.myradio24.com:9000/8202"
+  },
+  {
+    "rating": 171,
+    "name": "Радио Вышка",
+    "teg": "ru",
+    "url": "http://194.226.234.44:10192/;listen.pls"
+  },
+  {
+    "rating": 170,
+    "name": "Яскраве радіо",
+    "teg": "ua",
+    "url": "http://vobu.com.ua:8000/vobur"
+  },
+  {
+    "rating": 161,
+    "name": "Seoul FM",
+    "teg": "other",
+    "url": "http://192.151.150.246/;?1369083629219.mp3"
+  },
+  {
+    "rating": 158,
+    "name": "New Age Radio",
+    "teg": "ru",
+    "url": "http://listen.rcast.tk:8000/newage"
+  },
+  {
+    "rating": 157,
+    "name": "Playpoint",
+    "teg": "other",
+    "url": "http://playpoint.fm:8000/original"
+  },
+  {
+    "rating": 155,
+    "name": "EkstraFM",
+    "teg": "ru",
+    "url": "http://live.ekstra-fm.ru:8001/efm"
+  },
+  {
+    "rating": 149,
+    "name": "Свежий Бриз",
+    "teg": "ru",
+    "url": "http://i-radio.info:8000/freshbreeze"
+  },
+  {
+    "rating": 142,
+    "name": "Хорошее Радио",
+    "teg": "ru",
+    "url": "http://radio.horoshee.fm:8000/mp3"
+  },
+  {
+    "rating": 141,
+    "name": "RADIO NOSTALGIE RUSSIA",
+    "teg": "ru",
+    "url": "http://host.fm:7777/7968_default"
+  },
+  {
+    "rating": 135,
+    "name": "Молоде радiо",
+    "teg": "ua",
+    "url": "http://molode.com.ua:8128/;"
+  },
+  {
+    "rating": 134,
+    "name": "Радио Март",
+    "teg": "ru",
+    "url": "http://listen4.myradio24.com:9000/8212"
+  },
+  {
+    "rating": 131,
+    "name": "Radio Sky",
+    "teg": "ru",
+    "url": "http://online.radio-sky.net:8000/live"
+  },
+  {
+    "rating": 128,
+    "name": "Ностальжи",
+    "teg": "ru",
+    "url": "http://beta-radio.ru:10761/live"
+  },
+  {
+    "rating": 128,
+    "name": "PriMuzFM",
+    "teg": "ru",
+    "url": "http://listen2.myradio24.com:9000/8118"
+  },
+  {
+    "rating": 128,
+    "name": "MID-FM",
+    "teg": "ua",
+    "url": "http://91.202.144.4:8000/mid-fm"
+  },
+  {
+    "rating": 126,
+    "name": "Отрядное Online-Радио",
+    "teg": "ru",
+    "url": "http://otradio.ru:8390/radio"
+  },
+  {
+    "rating": 126,
+    "name": "Аккерман Fm",
+    "teg": "ua",
+    "url": "http://195.138.73.30:8000/;"
+  },
+  {
+    "rating": 123,
+    "name": "Zoom",
+    "teg": "ru",
+    "url": "http://listen3.myradio24.com:9000/8240"
+  },
+  {
+    "rating": 122,
+    "name": "VmixAccent Mix",
+    "teg": "other",
+    "url": "http://live4.vmix.fm/aft.mp3"
+  },
+  {
+    "rating": 122,
+    "name": "Electro XEON",
+    "teg": "by",
+    "url": "http://xeon.by:8000/live"
+  },
+  {
+    "rating": 121,
+    "name": "Radio SURVIVAL",
+    "teg": "ru",
+    "url": "http://listen3.myradio24.com:9000/8558"
+  },
+  {
+    "rating": 118,
+    "name": "SPB1",
+    "teg": "ru",
+    "url": "http://host.fm:7777/16277_ametrin"
+  },
+  {
+    "rating": 118,
+    "name": "TriangleFM",
+    "teg": "ua",
+    "url": "http://listen.trianglefm.com:8000/trianglefm"
+  },
+  {
+    "rating": 117,
+    "name": "Радио Ветер 3.0",
+    "teg": "ru",
+    "url": "http://host.fm:7777/16022_radiove30"
+  },
+  {
+    "rating": 108,
+    "name": "RadioMirabo",
+    "teg": "ru",
+    "url": "http://77.241.44.141:8000/;"
+  },
+  {
+    "rating": 108,
+    "name": "BMW Fanatics Club Radio",
+    "teg": "ru",
+    "url": "http://radio.bmwfanatics.ru:8128/live"
+  },
+  {
+    "rating": 98,
+    "name": "KAST FM",
+    "teg": "ua",
+    "url": "http://kastfm.com.ua:8800/live"
+  },
+  {
+    "rating": 95,
+    "name": "Lounge Project Radio",
+    "teg": "ru",
+    "url": "http://s1.radioheart.ru:8001/radio_radio"
+  },
+  {
+    "rating": 87,
+    "name": "MegaFM",
+    "teg": "ru",
+    "url": "http://live.megafm.org:8000/mp3"
+  },
+  {
+    "rating": 84,
+    "name": "ShlissFM",
+    "teg": "ru",
+    "url": "http://193.169.63.51:8000/;"
+  },
+  {
+    "rating": 74,
+    "name": "AVRIKA.FM",
+    "teg": "ua",
+    "url": "http://s1.radioheart.ru:8001/AVRIKAFM"
+  },
+  {
+    "rating": 66,
+    "name": "Le Bouchon",
+    "teg": "ru",
+    "url": "http://5.19.243.233:8000/live"
+  },
+  {
+    "rating": 65,
+    "name": "Kem FM",
+    "teg": "ua",
+    "url": "http://s1.radioheart.ru:8008/kem_fm"
+  },
+  {
+    "rating": 63,
+    "name": "PLAY FM",
+    "teg": "ru",
+    "url": "http://host.fm:7777/18725_playfm-128"
+  },
+  {
+    "rating": 60,
+    "name": "CalmStream",
+    "teg": "ua",
+    "url": "http://77.241.44.141:8000/;stream.mp3"
+  },
+  {
+    "rating": 58,
+    "name": "Zoom",
+    "teg": "ru",
+    "url": "http://listen3.myradio24.com:9000/8240"
+  },
+  {
+    "rating": 58,
+    "name": "Курорт ФМ",
+    "teg": "ru",
+    "url": "http://s04.radio-tochka.com:4810/radio"
+  },
+  {
+    "rating": 57,
+    "name": "Аккерман",
+    "teg": "ua",
+    "url": "http://195.138.73.30:8000/;"
+  },
+  {
+    "rating": 55,
+    "name": "Шляп ФМ",
+    "teg": "ru",
+    "url": "http://shlyap-fm.ru:8000/live"
+  },
+  {
+    "rating": 55,
+    "name": "FKM Радио",
+    "teg": "ru",
+    "url": "http://46.38.62.186:8162/live"
+  },
+  {
+    "rating": 49,
+    "name": "DoubleGame",
+    "teg": "ru",
+    "url": "http://doublegame.su:8000/dg"
+  },
+  {
+    "rating": 46,
+    "name": "Радио Феникс Фм",
+    "teg": "ru",
+    "url": "http://s4.radioheart.ru:8019/fenixfm"
+  },
+  {
+    "rating": 45,
+    "name": "Ekstra-FM",
+    "teg": "ru",
+    "url": "http://live.ekstra-fm.com:8001/efm"
+  },
+  {
+    "rating": 44,
+    "name": "Радио Благовестие",
+    "teg": "ru",
+    "url": "http://live.borneo.ru:8888/bv128"
+  },
+  {
+    "rating": 41,
+    "name": "adio Sensation Innerspace",
+    "teg": "ru",
+    "url": "http://listen2.myradio24.com:9000/8660"
+  },
+  {
+    "rating": 40,
+    "name": "ProT-Fm",
+    "teg": "ru",
+    "url": "http://93.189.43.110:8109/stream"
+  },
+  {
+    "rating": 38,
+    "name": "F S P",
+    "teg": "ua",
+    "url": "http://77.47.131.94:8800/radiofsp"
+  },
+  {
+    "rating": 26,
+    "name": "Радио DEDLINE",
+    "teg": "ru",
+    "url": "http://dedlinefm.ru:8000/live128"
+  }
+]
